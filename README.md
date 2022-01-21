@@ -1,6 +1,6 @@
 # Analog Clock
 
-> ### In this project, I build an analog clock using `Python`, and `turtle-graphic` libraray.
+> In this project, I build an analog clock using `Python`, and `turtle-graphic` libraray.
 
 
 ## Built With
